@@ -2,7 +2,10 @@
 List of awesome dotnet projects with nice architectures
 
 
-. https://github.com/EduardoPires/EquinoxProject
-. https://github.com/oskardudycz/EventSourcing.NetCore
-. https://github.com/rafaelfgx/DotNetCoreArchitecture
-. https://github.com/ardalis/CleanArchitecture
+1. https://github.com/EduardoPires/EquinoxProject
+2. https://github.com/oskardudycz/EventSourcing.NetCore
+3. https://github.com/rafaelfgx/DotNetCoreArchitecture
+4. https://github.com/ardalis/CleanArchitecture
+5. https://github.com/dotnet-architecture/eShopOnWeb
+6. https://github.com/dotnet-architecture/eShopOnContainers
+7. https://github.com/SteeltoeOSS/Samples
