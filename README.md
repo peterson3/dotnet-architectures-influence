@@ -11,3 +11,4 @@ List of awesome dotnet projects with nice architectures
 7. https://github.com/SteeltoeOSS/Samples
 8. https://github.com/asc-lab/dotnetcore-microservices-poc
 9. https://github.com/kgrzybek/modular-monolith-with-ddd
+10. https://github.com/nopSolutions/nopCommerce
