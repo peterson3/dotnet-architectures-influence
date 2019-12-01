@@ -13,3 +13,4 @@ List of awesome dotnet projects with nice architectures
 9. https://github.com/kgrzybek/modular-monolith-with-ddd
 10. https://github.com/nopSolutions/nopCommerce
 11. https://github.com/phongnguyend/Practical.CleanArchitecture
+12. https://github.com/fals/cqrs-clean-eventual-consistency
