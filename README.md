@@ -14,3 +14,4 @@ List of awesome dotnet projects with nice architectures
 10. https://github.com/nopSolutions/nopCommerce
 11. https://github.com/phongnguyend/Practical.CleanArchitecture
 12. https://github.com/fals/cqrs-clean-eventual-consistency
+13. https://github.com/ivanpaulovich/clean-architecture-manga
